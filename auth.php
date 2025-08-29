@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 /**
- * Drop-in auth + first-run config wizard using a .env file.
+ * Drop-in auth + first-run config wizard using a .env file
  *
  * Usage in browser-served files:
  *   require_once __DIR__ . '/auth.php';

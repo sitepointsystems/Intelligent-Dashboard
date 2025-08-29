@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 /**
- * Proxy: n8n -> renderer
+ * Proxy: n8n -> renderer.
  * - Loads .env via auth.php (env-only, no UI)
  * - Forwards propertyId/propertyFull to n8n
  * - Sends X-Render-Key to renderer to bypass login

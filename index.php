@@ -4,7 +4,7 @@ declare(strict_types=1);
 $isFallback = false;
 
 /* ==========================
-   CONFIG FOR PROPERTIES SOURCE
+   CONFIG FOR PROPERTIES SOURCE 
    ========================== */
 //const PROP_WEBHOOK_URL = 'https://virtuaix.com/webhook/77466bf0-3eb9-4076-ac31-0026a50de0f2';
 if (getenv('PROP_FILE')) {

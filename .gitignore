@@ -1,5 +1,6 @@
 # Keep secrets & runtime data out of Git
 .env
+todo.txt
 ga_properties.json
 /vendor/
 node_modules/

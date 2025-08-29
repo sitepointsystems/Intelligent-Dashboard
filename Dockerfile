@@ -1,4 +1,4 @@
-# PHP + Apache
+# PHP + Apache 2
 FROM php:8.2-apache
 
 # System deps & PHP extensions

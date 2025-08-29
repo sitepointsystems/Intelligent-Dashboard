@@ -6,7 +6,7 @@ services:
     ports:
       - "8080:80"
     # Two modes:
-    #  (A) Quick-test (no volumes): .env and files live inside the container
+    #  (A) Quick-test (no volumes): .env and files live inside the container.
     #  (B) Dev/persistent (uncomment volumes) to keep .env & ga_properties.json on your host
     # volumes:
     #   - ./:/var/www/html
