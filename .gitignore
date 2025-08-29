@@ -1,0 +1,6 @@
+# Keep secrets & runtime data out of Git
+.env
+ga_properties.json
+/vendor/
+node_modules/
+.DS_Store

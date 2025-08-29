@@ -1,0 +1,41 @@
+Søgeordsdata (fra GSC direkte)
+
+- Hvilke keywords genererer flest klik/visninger?
+
+- CTR pr. keyword og gennemsnitlig position.
+
+- Søgeord der performer godt i impressions, men lav CTR (mulighed for bedre titles/meta).
+
+Brugerrejse & adfærd
+
+- Bounce rate / engagement rate pr. side.
+
+- Scroll depth og klik på interne links/CTA’er.
+
+- Indgange vs. udgange (hvor falder folk fra?).
+
+SEO-helbred
+
+- Antal sider indekseret vs. ikke-indekseret.
+
+- Core Web Vitals (LCP, CLS, FID).
+
+- Mobil vs. desktop performance.
+
+Konkurrence & CTR optimering
+
+- Hvilke sider har høj ranking, men lav CTR → mulighed for bedre titler/meta.
+
+- Hvilke artikler har lav ranking, men høj CTR → indholdspotentiale.
+
+Monetization (selvom du endnu ikke har revenue) (hvis det er muligt at kunne gøre)
+
+- Affiliate outbound clicks (f.eks. Jydsk Tagteknik, 3byggetilbud).
+
+- Estimeret værdi pr. klik (kan sættes op via affiliate netværk).
+
+- Mikro-konverteringer: klik på affiliate links, udfyldte kontaktformularer, klik på prisberegnere.
+
+- Makro-konverteringer: reelle leads/indtægter.
+
+- Event tracking (fx knaptryk på “Få 3 tilbud” links).
