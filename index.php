@@ -7,8 +7,6 @@ $isFallback = false;
    CONFIG FOR PROPERTIES SOURCE
    ========================== */
 //const PROP_WEBHOOK_URL = 'https://virtuaix.com/webhook/77466bf0-3eb9-4076-ac31-0026a50de0f2';
-// Replace with:
-const PROP_FILE = __DIR__ . '/ga_properties.json'; // default
 if (getenv('PROP_FILE')) {
   define('PROP_FILE', getenv('PROP_FILE'));
 } else {
